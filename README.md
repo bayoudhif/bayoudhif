@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @bayoudhif
-- 👀 I’m interested in Coding and photos/videos manipulating 
-- 🌱 I’m currently learning web development ( HTML5 CSS3 JS)
+Firas Bayoudhi
+IoT Developer | MERN Stack Web Developer
+I am a Bachelor's student of Computer Systems Engineering, specializing in IoT and Embedded Systems. With a passion for coding and a drive to develop innovative solutions, I have honed my skills in both IoT development and MERN stack web development.
 
-<!---
-bayoudhif/bayoudhif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+IoT Development
+Embedded Systems
+MERN Stack Development
+ReactJS
+Node.js
+MongoDB
+HTML/CSS
+JavaScript
+C/C++
