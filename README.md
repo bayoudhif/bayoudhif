@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayoudhif" alt="bayoudhif" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bayoudhi.vercel.app](https://bayoudhi.vercel.app)
+- 👨‍💻 All of my projects are available at [https://bayoudhi.be](https://bayoudhi.be)
 
 - 📫 How to reach me **firasbayoudhi@gmail.com**
 
