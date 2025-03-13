@@ -77,8 +77,3 @@
   <li>🌐 <a href="https://bayoudhi.be">My Portfolio</a> - A showcase of my work and skills</li>
   <li>📱 IoT & Web Projects - Available in my <a href="https://github.com/bayoudhif?tab=repositories">GitHub Repositories</a></li>
 </ul>
-
----
-
-<h2 align="center">🌟 Fun Fact</h2>
-<p align="center">💡 Did you know? I love building innovative IoT solutions and crafting intuitive web interfaces!</p>
