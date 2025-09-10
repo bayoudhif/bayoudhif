@@ -25,7 +25,9 @@
 </p>
 
 ---
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+---
 <h2 align="center">🛠️ Languages & Tools</h2>
 <p align="center">
   <a href="https://developer.android.com" target="_blank">
