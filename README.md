@@ -24,7 +24,6 @@
 
 ## 🚀 About Me
 
-- 🌍 Based in **Brussels**, originally from Tunisia  
 - 💼 **IoT Solution Engineer**  
 - 🤖 Passionate about **IoT, Artificial Intelligence & Full-Stack Development**  
 - 🧠 Building smart systems that connect **hardware + software + data**  
